@@ -1,12 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
+{The purpose of this assginment is to show that I understand the basics of SQL and know how to use it with a database as well as to create tables, insert data, query data, modify data, and delete data. This program creates a simple data base of books and their authors, then the database is modified accordingly.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -25,8 +19,8 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python sqlite3 documentaion Website](https://docs.python.org/3.8/library/sqlite3.html)
+* [SQL W3Schools](https://www.w3schools.com/sql/)
 
 # Future Work
 
