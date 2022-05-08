@@ -2,19 +2,16 @@
 
 {The purpose of this assginment is to show that I understand the basics of SQL and know how to use it with a database as well as to create tables, insert data, query data, modify data, and delete data. This program creates a simple data base of books and their authors, then the database is modified accordingly.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cKczeiIQJOE)
 
 # Relational Database
 
-{Describe the relational database you are using.}
+{I used SQLite to crate a library.db file.}
 
-{Describe the structure (tables) of the relational database that you created.}
+{The stucture I chose is a simple one that holds the names and authors names. I hope to add more tables and link them together in the future.}
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+{I ended up useing SQLite3 for this project. It creates a library database. I used python and used SQL to query, modify and delete the database. }
 
 # Useful Websites
 
@@ -25,6 +22,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Customer table and checked out table
+* Better recomendation system
+* Make better methods suited for a library instead of SQL commands.

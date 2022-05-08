@@ -137,9 +137,6 @@ class Database:
 
     
 
-
-
-
 books_authors = []
 
 with open("files/books.csv") as books:

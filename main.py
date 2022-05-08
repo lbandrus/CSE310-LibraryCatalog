@@ -53,10 +53,10 @@ def main():
     
     
     # delete all books that have a rating of 1
-    # data.execute("""DELETE FROM books WHERE book_rating = 1""")
+    data.execute("""DELETE FROM books WHERE book_rating = 1""")
 
     # # delete the books table
-    # data.execute("""DROP TABLE books""")
+    data.execute("""DROP TABLE books""")
     
 if __name__ == "__main__":
     main()
